@@ -1,5 +1,8 @@
 {
   "dockerComposeFile": "compose.yaml",
+  "extensions": [
+    "haskell.haskell"
+  ],
   "service": "devcontainer",
-  "workspaceFolder": "/workspaces/advent-of-code-2019"
+  "workspaceFolder": "/workspaces/aoc"
 }
